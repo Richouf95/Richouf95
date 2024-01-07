@@ -47,8 +47,6 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://github.com/Richouf95/Richouf95/blob/main/Capture%20d'%C3%A9cran%202024-01-07%20002535.png?raw=true"  />
-
 ###
 
 <div align="center">
