@@ -61,7 +61,7 @@
   <a href="http://www.linkedin.com/in/wourichouf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[http://www.linkedin.com/in/wourichouf](https://twitter.com/wourichouf)" target="_blank">
+  <a href="https://twitter.com/wourichouf" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="http://www.linkedin.com/in/wourichouf" target="_blank">
