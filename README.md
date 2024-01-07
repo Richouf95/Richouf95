@@ -71,7 +71,7 @@
   <a href="https://join.slack.com/t/slack-ynn5034/shared_invite/zt-2a9xboy0h-29tL0NRC3wy2~E3u4Jdlxg" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
-  <a href="href="mailto:wourichouf95@gmail.com"" target="_blank">
+  <a href="mailto:wourichouf95@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="/" target="_blank">
