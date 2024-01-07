@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
 </a>
 
-  <a href="/" target="_blank">
+  <a href="https://join.slack.com/t/slack-ynn5034/shared_invite/zt-2a9xboy0h-29tL0NRC3wy2~E3u4Jdlxg" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
   <a href="/" target="_blank">
