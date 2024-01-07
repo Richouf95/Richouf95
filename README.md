@@ -58,26 +58,26 @@
 ###
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/wourichouf" target="_blank">
+  <a href="http://www.linkedin.com/in/wourichouf" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/wourichouf" target="_blank">
+  <a href="https://twitter.com/wourichouf" target="_blank" style="text-decoration: none">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-<a href="https://discord.gg/CTNgwmvF53" target="_blank">
+<a href="https://discord.gg/CTNgwmvF53" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
 </a>
 
-  <a href="https://join.slack.com/t/slack-ynn5034/shared_invite/zt-2a9xboy0h-29tL0NRC3wy2~E3u4Jdlxg" target="_blank">
+  <a href="https://join.slack.com/t/slack-ynn5034/shared_invite/zt-2a9xboy0h-29tL0NRC3wy2~E3u4Jdlxg" target="_blank" style="text-decoration: none">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
-  <a href="mailto:wourichouf95@gmail.com" target="_blank">
+  <a href="mailto:wourichouf95@gmail.com" target="_blank" style="text-decoration: none">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/+22790500715" target="_blank">
+  <a href="https://wa.me/+22790500715" target="_blank" style="text-decoration: none">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://dev.to/richouf" target="_blank">
+  <a href="https://dev.to/richouf" target="_blank" style="text-decoration: none">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
 </div>
