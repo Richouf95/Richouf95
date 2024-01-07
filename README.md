@@ -1,8 +1,8 @@
-<p align="left">Hi there 👋</p>
+<h3 align="left">Hi there 👋</h3>
 
 ###
 
-<p align="left">I'm Wouri Chouf</p>
+<h1 align="left">I'm Wouri Chouf</h1>
 
 ###
 
@@ -42,6 +42,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
