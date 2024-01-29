@@ -11,6 +11,12 @@
   #CodeLife ✌️ 
 </p>
 
+<p>I'm currently looking for a role in frontend web development, ideally writing React.js or Next.js.
+
+I'd particularly like to work in a startup in a close-knit team where I could make a quick impact.
+
+If you're hiring, let's talk!</p>
+
 ###
 
 <h1 align="left">Skills and experience</h1>
