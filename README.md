@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">🚀 Developer, enthusiast, and code adventurer 💻 | Creator of innovative solutions 💡 | Knowledge sharer 📝 | #CodeLife</p>
+<p align="left">🚀 Developer, enthusiast, and code adventurer 💻 | Creator of innovative solutions 💡 | Knowledge sharer 📝
+  <br />
+  #CodeLife ✌️ 
+</p>
 
 ###
 
